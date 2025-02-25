@@ -1,4 +1,3 @@
-# Song-PlayList-App_JAVA-OOPS-PROJECT
 ### **Song Playlist App (Java OOPs Project) 🎵**  
 
 #### **📌 Project Overview**  
