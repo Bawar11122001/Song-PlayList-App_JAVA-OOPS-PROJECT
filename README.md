@@ -55,4 +55,4 @@ class Song {
 🔹 Audio playback support using **Java Sound API**.  
 🔹 User authentication for personalized playlists.  
 
-This project is a great way to practice Java OOP concepts while building a fun and practical application. Let me know if you need help with implementation! 🎶🔥.
+This project is a great way to practice Java OOP concepts while building a fun and practical application. Let me know if you need help with implementation! 🎶🔥
